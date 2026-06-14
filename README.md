@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I am Guliza
 
-<!--
-**22302949/22302949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Software Engineering Student
 
-Here are some ideas to get you started:
+This GitHub contains university projects, coursework, and personal coding projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Software Engineering
+- Algorithms and Data Structures
+- Backend Development
+
+## Currently
+- Learning software engineering concepts through university projects
+- Building practical programming experience
